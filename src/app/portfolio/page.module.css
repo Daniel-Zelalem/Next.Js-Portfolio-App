@@ -1,0 +1,41 @@
+.container {
+  max-height: 100%;
+}
+.mainTitle {
+  font-size: 60px;
+}
+.selectTitle {
+  margin: 20px 0px;
+}
+.items {
+  display: flex;
+  gap: 50px;
+}
+.item {
+  border: 5px solid #bbb;
+  border-radius: 5px;
+  width: 350px;
+  height: 275px;
+  position: relative;
+  background-size: contain !important;
+}
+.item:nth-child(1) {
+  background: url("/illustration.png");
+}
+.item:nth-child(2) {
+  background: url("/website.png");
+}
+.item:nth-child(3) {
+  background: url("/application.png");
+}
+.title {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  font-size: 40px;
+  font-weight: bold;
+  color: blue;
+}
+.item:hover .title {
+  color: green;
+}
