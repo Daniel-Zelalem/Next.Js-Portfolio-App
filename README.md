@@ -1,9 +1,5 @@
-![Screenshot (176)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/9be1aa2b-f97c-46c3-8c75-dd2d037823c6)
-![Screenshot (175)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/30c79341-01f4-4c75-8b14-53830376eaa0)
-![Screenshot (174)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/60421225-f809-4a76-ae62-2a07702a389c)
-![Screenshot (173)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/4e2dc424-2a69-4f8b-adec-ad053daa72f9)
-![Screenshot (172)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/a2d506f7-e518-46fa-9ef9-28bf791291b0)
-![Screenshot (171)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/46c04b16-eba3-408f-9055-74b8c470982d)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
