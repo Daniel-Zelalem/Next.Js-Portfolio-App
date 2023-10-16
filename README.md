@@ -1,3 +1,10 @@
+![Screenshot (1)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/00b50491-344b-43c0-a98c-510139ab8425)
+![Screenshot (2)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/2bbbbfa2-2fbd-4dbd-848b-76f6733731ba)
+![Screenshot (3)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/95cee0ef-572b-4f7e-8b83-383390982d1c)
+![Screenshot (4)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/e49b2d1a-ac97-485c-9bf6-4c6948e307ae)
+![Screenshot (5)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/16e20fa6-8f58-45c7-bf63-9b9b1a8c54e8)
+![Screenshot (6)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/d4c523f8-234a-46a4-a504-9a928b8a3a0c)
+![Screenshot (7)](https://github.com/Daniel-Zelalem/Next.Js-Portfolio-App/assets/106803484/b08e6e30-54c9-41fd-ac56-fb3dba6a23f9)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
